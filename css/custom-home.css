@@ -1,0 +1,26 @@
+
+/* init */
+@import './init/reset.css';
+@import './init/layout.css';
+@import './init/variables.css';
+/* 3rd party */
+@import './3rd-party/fontawesome.css';
+/* components */
+@import './components/clock.css';
+@import './components/form.css';
+@import './components/mouse.css';
+@import './components/progress-bar.css';
+
+/* CUSTOM STYLE BY SECTIONS */
+
+/*  hero start */
+form > input {
+    color: white;
+}
+/* hero end */
+
+/* main content start */
+/* main contect end */
+
+/* footer start */
+/* footer end */
